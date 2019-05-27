@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <BCopy content="Test Content"></BCopy>
+    <b-copy content="Test Content"></b-copy>
   </div>
 </template>
 
